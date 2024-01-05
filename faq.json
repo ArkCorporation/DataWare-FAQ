@@ -1,0 +1,156 @@
+{
+    "questions_answers": [
+        {
+            "question": "1. How can I add a new product in DataWare?",
+            "answer": "To add a new product in DataWare, go to the 'Products' section and select 'Add Product.' Then, fill in the product information, such as name, description, and price."
+        },
+        {
+            "question": "2. Can I manage product warranties in DataWare?",
+            "answer": "Yes, DataWare allows you to manage product warranties. You can register warranties, their expiration dates, and receive notifications when they are about to expire."
+        },
+        {
+            "question": "3. How do I create an invoice in DataWare?",
+            "answer": "To create an invoice in DataWare, go to the 'Invoices' section and select 'Create Invoice.' Then, enter the invoice details and the products or services sold."
+        },
+        {
+            "question": "4. How do I add a new customer to DataWare?",
+            "answer": "You can add a new customer in DataWare by going to the 'Customers' section and selecting 'Add Customer.' Fill in the customer's information, such as name and contact."
+        },
+        {
+            "question": "5. How are projects managed in DataWare?",
+            "answer": "Project management in DataWare allows you to create projects, assign tasks, and track progress in detail. Go to the 'Projects' section to get started."
+        },
+        {
+            "question": "6. How to schedule an appointment in DataWare?",
+            "answer": "To schedule an appointment with a DataWare provider, they should provide you with a personalized URL from their website/application for each company, and you can request appointments."
+        },
+        {
+            "question": "7. How can I know who has paid and who is paying in installments in DataWare?",
+            "answer": "In DataWare, you can access the 'Payment Management' section to track payments. Get reports to identify who has paid and who is on installment plans."
+        },
+        {
+            "question": "8. How does email sending with templates work in DataWare?",
+            "answer": "DataWare allows you to send emails with pre-designed templates. Go to the 'Email Sending' section and select a template before sending the email."
+        },
+        {
+            "question": "9. Can I create a website with DataWare?",
+            "answer": "To create a website with DataWare, you should fill out a form with the content you want, and one of our agents will contact you."
+        },
+        {
+            "question": "10. How do I use analytics in DataWare?",
+            "answer": "DataWare offers advanced analytics to assess your business's performance. Access detailed reports in the 'Analytics' section."
+        },
+        {
+            "question": "11. How do I transfer files between teams in DataWare?",
+            "answer": "The file transfer feature in DataWare allows you to upload and share files between teams. Go to 'File Transfer' to collaborate efficiently."
+        },
+        {
+            "question": "12. How do I generate QR codes with DataWare?",
+            "answer": "DataWare allows you to generate custom QR codes to link to products, services, or other resources. Use the 'QR Code Generator' tool."
+        },
+        {
+            "question": "13. Can I send SMS from DataWare?",
+            "answer": "Yes, DataWare allows you to send SMS to customers and collaborators. Use the 'SMS Sending' feature to send notifications and important messages."
+        },
+        {
+            "question": "14. How does cloud storage work in DataWare?",
+            "answer": "DataWare provides secure cloud storage for your files. You can access your documents from anywhere and easily share them."
+        },
+        {
+            "question": "15. How to make video calls in DataWare?",
+            "answer": "DataWare includes a built-in video call feature. You can make video calls with clients and collaborators for real-time communication."
+        },
+        {
+            "question": "16. What is the personal advisor in DataWare?",
+            "answer": "The personal advisor in DataWare is a feature that offers personalized recommendations and helpful tips to optimize software usage."
+        },
+        {
+            "question": "17. Can I import customer data into DataWare from a CSV file?",
+            "answer": "No, you cannot import customer data from a CSV file into DataWare. This data import feature is not yet available in DataWare."
+        },
+        {
+            "question": "18. How are tasks assigned to team members in project management?",
+            "answer": "In project management in DataWare, you can assign tasks to team members by specifying their responsibilities and deadlines. This facilitates collaboration and tracking."
+        },
+        {
+            "question": "19. Can payment reminders be scheduled for customers in DataWare?",
+            "answer": "Yes, DataWare allows you to schedule payment reminders for customers. Set up automatic reminders and notifications to ensure payments are made on time."
+        },
+        {
+            "question": "20. How is work hours tracked on projects in DataWare?",
+            "answer": "You can track work hours on projects in DataWare using the time tracking feature. Record hours worked on specific tasks to evaluate team efficiency."
+        },
+        {
+            "question": "21. Can I customize the design of my invoices in DataWare?",
+            "answer": "Yes, you can customize the design of your invoices in DataWare. Customize colors, logos, and the information displayed on invoices to reflect your company's identity."
+        },
+        {
+            "question": "22. How are files shared with customers in DataWare?",
+            "answer": "No, files cannot be shared between companies and customers. This feature will be added in version 2.4.0.1."
+        },
+        {
+            "question": "23. Can I track metrics of my website in DataWare?",
+            "answer": "Yes, DataWare allows you to track metrics of your website. Integrate web analytics tools to get insights on visitors, traffic, and more."
+        },
+        {
+            "question": "24. How are customer records managed in DataWare?",
+            "answer": "In DataWare, you can manage detailed customer records, including their contact information, purchase history, and preferences. This facilitates customer support."
+        },
+        {
+            "question": "25. Can I create custom email campaigns in DataWare?",
+            "answer": "Yes, you can create custom email campaigns in DataWare. Design your emails, segment your contact list, and track responses."
+        },
+        {
+            "question": "26. How can I track pending payments in DataWare?",
+            "answer": "To track pending payments in DataWare, go to the 'Payment Management' section and access the list of pending payments. Take actions like sending payment reminders."
+        },
+        {
+            "question": "27. Can I customize the content of my emails in DataWare?",
+            "answer": "Yes, you can customize the content of your emails in DataWare. Add specific information, such as the customer's name, to make emails more personal."
+        },
+        {
+            "question": "28. How are deadlines set for projects in DataWare?",
+            "answer": "To set deadlines for projects in DataWare, go to the 'Project Management' section and assign due dates to project tasks and stages."
+        },
+        {
+            "question": "29. How is product inventory management done in DataWare?",
+            "answer": "DataWare offers inventory management tools to maintain precise control of your products. Record stocks, make adjustments, and receive restocking notifications."
+        },
+        {
+            "question": "30. How are user permissions and roles assigned in DataWare?",
+            "answer": "You can assign user permissions and roles in DataWare in the 'User Management' section. Define who has access to which areas of the software."
+        },
+        {
+            "question": "31. How are mass emails sent in DataWare?",
+            "answer": "DataWare allows you to send mass emails to contact lists. Create your email campaigns and select recipients before sending them."
+        },
+        {
+            "question": "32. Can I manage projects with multiple tasks in DataWare?",
+            "answer": "Yes, you can manage projects with multiple tasks in DataWare. Create individual tasks and assign them to your team members for detailed tracking."
+        },
+        {
+            "question": "33. How are notifications set for appointments in DataWare?",
+            "answer": "You can set notifications for appointments in DataWare when scheduling them. The software will send you reminders via email or text messages according to your preferences."
+        },
+        {
+            "question": "34. What is the cloud storage limit in DataWare?",
+            "answer": "The cloud storage limit in DataWare depends on your plan. You can check your plan to find out the available storage space."
+        },
+        {
+            "question": "35. How can email templates be customized in DataWare?",
+            "answer": "To customize email templates in DataWare, go to the 'Email Templates' section and select the template you want to edit. Then, modify the content as per your needs."
+        },
+        {
+            "question": "36. How can I track sales in DataWare?",
+            "answer": "You can track sales in DataWare using the 'Sales Tracking' feature. The software will provide detailed reports on the sales made."
+        },
+        {
+            "question": "37. Is it possible to integrate DataWare with other applications?",
+            "answer": "No, DataWare does not support integrations with other applications."
+        },
+        {
+            "question": "38. How are advanced analytics used in DataWare?",
+            "answer": "Advanced analytics in DataWare provide detailed insights into your business's performance. You can generate customized reports and use data for strategic decision-making."
+        }
+    ]
+}
